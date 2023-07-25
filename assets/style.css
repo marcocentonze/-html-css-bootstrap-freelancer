@@ -1,7 +1,10 @@
-.header_color{
+.black_color{
     background-color:  #2C3E50;
 }
 
+.color_dark{
+    color:#2C3E50 ;
+}
 .jumbo-bg{
     background-color:  #1ABC9C;
 }
@@ -9,7 +12,13 @@
 .width100{
     width:50%;
 }
-.bg-line{
-    background-color: white;
-    height:2px;
+
+.row img{
+    width: 100%;
+}
+
+
+.line{
+    width: 100px;
+    height: 4px;
 }
