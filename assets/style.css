@@ -27,6 +27,10 @@
     height: 4px;
 }
 
+.filter_reverse{
+    filter: invert();  /* i had to change the color of the icon */
+}
+
 /* FOOTER */
 .footer-top{
 
